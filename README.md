@@ -2,15 +2,11 @@
 
 Flutter project.
 
-## Getting Started
+## 概要
 
-This project is a starting point for a Flutter application.
+アプリ名：virtuelance
+アプリ概要：徳とそれによる見返りが可視化・共有できるSNSアプリ
+ターゲット：ギャンブルをする人
+内容：徳を積んだら，見返りがある．そう考えたことがある人は多いと思います．そこで，自分の徳や見返りを記録できたり，ほかの人の記録が見れたりします．
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
